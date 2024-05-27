@@ -1,2 +1,2 @@
-# basic1
-基础训练项目
+# BasicMaster
+基础精通训练项目
